@@ -1,0 +1,9 @@
+{
+  "name": "SHT11Fixed",
+  "version": "0.1.0",
+  "description": "Fixed-point (no float) driver for Sensirion SHT10/SHT11/SHT15 for low-power Arduino UNO and ESP32 nodes",
+  "keywords": "sht11, sht1x, temperature, humidity, sensirion, fixed-point, low-power",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "espressif32"]
+}
